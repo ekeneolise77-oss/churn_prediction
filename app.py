@@ -21,6 +21,7 @@ st.markdown("""
     <style>
     .main {
         background-color: #0e1117;
+        color: white;
     }
     .stMetric {
         background-color: #3a49d3; /* Colour of background */
@@ -37,7 +38,6 @@ st.markdown("""
         height: 50px;
         white-space: pre-wrap;
         background-color: transparent;
-        colour: white;
         border-radius: 4px 4px 0px 0px;
         gap: 1px;
         padding-top: 10px;
