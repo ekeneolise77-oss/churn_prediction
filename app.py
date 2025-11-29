@@ -27,8 +27,11 @@ st.markdown("""
         padding: 15px;
         border-radius: 10px;
         text-align: center;
-        colour: white
     }
+
+    div[data=testid="stMetricLabel"] {
+        colour: white !important;
+    
     /* Style for the Tabs to make them look more like the screenshot */
     .stTabs [data-baseweb="tab-list"] {
         gap: 24px;
