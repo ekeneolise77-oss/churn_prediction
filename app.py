@@ -20,10 +20,10 @@ st.set_page_config(
 st.markdown("""
     <style>
     .main {
-        background-color: #0E1117;
+        background-color: #e03c31;
     }
     .stMetric {
-        background-color: #3a49d3;
+        background-color: #3a49d3; /* Colour of background */
         padding: 15px;
         border-radius: 10px;
         text-align: center;
