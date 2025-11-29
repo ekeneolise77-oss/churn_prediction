@@ -30,8 +30,9 @@ st.markdown("""
         text-align: center;
     }
 
-    [data-testid="stMetricsLabe1"] {
-        color: #ffffff
+    [data-testid="stMetricsLabe1"],
+    [data-testid="stMetricLabe1"] * {
+        color: #ffffff !important;
     }
 
     [data-testid="stMetricValue"] * {
