@@ -46,7 +46,7 @@ st.markdown("""
         border-bottom: 2px solid #FF4B4B;
     }
     h1, h2, h3 {
-        color: #FAFAFA;
+        color: #FFFFFF;
     }
     </style>
     """, unsafe_allow_html=True)
