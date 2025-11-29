@@ -42,7 +42,7 @@ st.markdown("""
         padding-bottom: 10px;
     }
     .stTabs [aria-selected="true"] {
-        background-color: rgba(255, 75, 75, 0.1);
+        background-color: rgba(0, 0, 0, 0);
         border-bottom: 2px solid #FF4B4B;
     }
     h1, h2, h3 {
