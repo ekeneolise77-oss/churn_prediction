@@ -23,14 +23,14 @@ st.markdown("""
         background-color: #0e1117;
     }
     .stMetric {
-        background-color: #3a49d3; /* Colour of background */
+        background-color: #0e1117; /* Colour of background */
         color: white;
         padding: 15px;
         border-radius: 10px;
         text-align: center;
     }
 
-    [data-testid+"stMetricsLabe1"] {
+    [data-testid="stMetricsLabe1"] {
         color: #ffffff
     }
 
