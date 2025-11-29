@@ -21,10 +21,10 @@ st.markdown("""
     <style>
     .main {
         background-color: #0e1117;
-        color: white;
     }
     .stMetric {
         background-color: #3a49d3; /* Colour of background */
+        color: white;
         padding: 15px;
         border-radius: 10px;
         text-align: center;
