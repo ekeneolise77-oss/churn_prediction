@@ -27,6 +27,7 @@ st.markdown("""
         padding: 15px;
         border-radius: 10px;
         text-align: center;
+        colour: white
     }
     /* Style for the Tabs to make them look more like the screenshot */
     .stTabs [data-baseweb="tab-list"] {
