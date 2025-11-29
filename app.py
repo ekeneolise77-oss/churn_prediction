@@ -29,6 +29,13 @@ st.markdown("""
         border-radius: 10px;
         text-align: center;
     }
+
+    [data-testid+"stMetricsLabe1"] {
+        color: #ffffff
+    }
+
+    [data-testid="stMetricValue"] * {
+        color: #ffffff !important;
     
     /* Style for the Tabs to make them look more like the screenshot */
     .stTabs [data-baseweb="tab-list"] {
