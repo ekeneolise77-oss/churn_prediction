@@ -23,7 +23,7 @@ st.markdown("""
         background-color: #0E1117;
     }
     .stMetric {
-        background-color: #262730;
+        background-color: #3a49d3;
         padding: 15px;
         border-radius: 10px;
         text-align: center;
