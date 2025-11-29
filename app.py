@@ -20,7 +20,7 @@ st.set_page_config(
 st.markdown("""
     <style>
     .main {
-        background-color: #e03c31;
+        background-color: #0e1117;
     }
     .stMetric {
         background-color: #3a49d3; /* Colour of background */
@@ -42,11 +42,11 @@ st.markdown("""
         padding-bottom: 10px;
     }
     .stTabs [aria-selected="true"] {
-        background-color: rgba(0, 0, 0, 0);
+        background-color: rgba(255, 75, 75, 0.1);
         border-bottom: 2px solid #FF4B4B;
     }
     h1, h2, h3 {
-        color: #FFFFFF;
+        color: #FAFAFA;
     }
     </style>
     """, unsafe_allow_html=True)
