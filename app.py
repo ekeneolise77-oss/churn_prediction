@@ -30,7 +30,7 @@ st.markdown("""
     }
 
     div[data=testid="stMetricLabel"] {
-        colour: white !important;
+        colour: white;
     
     /* Style for the Tabs to make them look more like the screenshot */
     .stTabs [data-baseweb="tab-list"] {
