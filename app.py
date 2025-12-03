@@ -426,7 +426,7 @@ with tab_student:
     with st.container():
         st.markdown("### Project Details")
         st.markdown("""
-        **Research Topic:** *Predictive Analytics in Telecommunications: Mitigating Customer Churn using Machine Learning*
+        **Research Topic:** *Business Intelligence for Customer Churn Prediction & Retention*
         """)
 
         st.markdown("---")
