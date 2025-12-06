@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on Business intelligence for customer churn predictions and retention. It involves building a predictive model and an interactive dashboard to analyze customer churn in a telecommunications company. The dashboard provides key insights into churn rates, predicted churned customers, and factors influencing retention, enabling data-driven strategies to reduce customer attrition.The model uses machine learning techniques to predict which customers are likely to churn based on historical data, while the dashboard visualizes metrics and distributions for quick managerial decision-making. This aligns with business intelligence practices to enhance customer retention through targeted interventions, such as personalized offers or improved service plans.
+This project focuses on Business intelligence for customer churn predictions and retention. It involves building a predictive model and an interactive dashboard to analyze customer churn in a telecommunications company. The dashboard provides key insights into churn rates, predicted churned customers, and factors influencing retention, enabling data-driven strategies to reduce customer attrition. The model uses machine learning techniques to predict which customers are likely to churn based on historical data, while the dashboard visualizes metrics and distributions for quick managerial decision-making. This aligns with business intelligence practices to enhance customer retention through targeted interventions, such as personalized offers or improved service plans.
 
 ## Features
 Predictive modeling - A machine learning model (e.g., logistic regression, random forest, XGBoost and lightGBM) trained to forecast customer churn probability.
@@ -29,13 +29,13 @@ The project utilizes a sample telecommunications customer dataset (inspired by t
 The dataset contains approximately 7,043 customer records, with a churn rate of 26.54%. Data preprocessing includes handling missing values, encoding categorical variables, and feature scaling.
 
 ## Technologies used
-    + Programming language: Python 3.x
-    + Libraries
-        + Data Processing - Pandas, NumPy
-        + Machine learning - Scikit-learn, XGBoost
-        + Visualization - Matplotlib, Seaborn, or dashboard tools like Streamlit/Dash/Tableau/Power BI
-        + Environment - Jupyter Notebook for development; optional deployment via Streamlit or Heroku.
-        + Version Control - Git
++ Programming language: Python 3.x
++ Libraries
++ Data Processing - Pandas, NumPy
++ Machine learning - Scikit-learn, XGBoost.
++ Visualization - Matplotlib, Seaborn, or dashboard tools like Streamlit/Dash/Tableau/Power BI.
++ Environment - Jupyter Notebook for development; optional deployment via Streamlit or Heroku.
++ Version Control - Git
 
 ## Installation
 1. Clone the repository
@@ -46,10 +46,8 @@ The dataset contains approximately 7,043 customer records, with a churn rate of 
 3. Download the dataset (e.g., telco_customer_churn.csv) and place it in the data/ directory.
 
 ## Usage
-1. Train the model:
-+ Run the Jupyter Notebook model_training.ipynb to preprocess data, train the model, and evaluate performance.
-
-2. Launch the dashboard:
+1. Train the model
+2. Launch the dashboard
 + Use Streamlit to run the interactive dashboard
 
 ## Explore insights:
