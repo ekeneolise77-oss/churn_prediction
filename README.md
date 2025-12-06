@@ -48,7 +48,7 @@ The dataset contains approximately 7,043 customer records, with a churn rate of 
 ## Usage
 1. Train the model
 2. Launch the dashboard
-+ Use Streamlit to run the interactive dashboard
+   + Use Streamlit to run the interactive dashboard
 
 ## Explore insights:
 - View overall churn metrics.
