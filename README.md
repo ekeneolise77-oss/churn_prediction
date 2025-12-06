@@ -6,16 +6,15 @@ This project focuses on Business intelligence for customer churn predictions and
 
 ## Features
 Predictive modeling - A machine learning model (e.g., logistic regression, random forest, XGBoost, and lightGBM) trained to forecast customer churn probability.
-    + Key metrics dashboard
-    + Churn rate: 26.54%
-    + Predicted churned customers: 1,869
-    + Total customers: 7,043
-    + Average monthly charges: $64.76
+  + Key metrics dashboard
+  + Churn rate: 26.54%
+  + Predicted churned customers: 1,869
+  + Total customers: 7,043
+  + Average monthly charges: $64.76
 Visualizations
-    + Churn by contract type: Bar chart showing higher churn in month-to-month contracts compared to one-year or two-year plans.
-    + Churn distribution: Pie chart illustrating the split between churned (26.54%) and retained (73.46%) customers.
-    + Additional charts for model performance, customer segmentation, and churn rate trends.
-
+  + Churn by contract type: Bar chart showing higher churn in month-to-month contracts compared to one-year or two-year plans.
+  + Churn distribution: Pie chart illustrating the split between churned (26.54%) and retained (73.46%) customers.
+  + Additional charts for model performance, customer segmentation, and churn rate trends.
 Data exploration - Interactive filters for segments like contract type, payment methods, or tenure.
 
 ## Dataset
