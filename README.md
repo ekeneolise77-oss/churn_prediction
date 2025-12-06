@@ -5,7 +5,7 @@
 This project focuses on Business intelligence for customer churn predictions and retention. It involves building a predictive model and an interactive dashboard to analyze customer churn in a telecommunications company. The dashboard provides key insights into churn rates, predicted churned customers, and factors influencing retention, enabling data-driven strategies to reduce customer attrition. The model uses machine learning techniques to predict which customers are likely to churn based on historical data, while the dashboard visualizes metrics and distributions for quick managerial decision-making. This aligns with business intelligence practices to enhance customer retention through targeted interventions, such as personalized offers or improved service plans.
 
 ## Features
-Predictive modeling - A machine learning model (e.g., logistic regression, random forest, XGBoost and lightGBM) trained to forecast customer churn probability.
+Predictive modeling - A machine learning model (e.g., logistic regression, random forest, XGBoost, and lightGBM) trained to forecast customer churn probability.
     + Key metrics dashboard
     + Churn rate: 26.54%
     + Predicted churned customers: 1,869
