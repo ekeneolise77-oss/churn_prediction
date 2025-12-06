@@ -15,6 +15,7 @@ Visualizations
   + Churn by contract type: Bar chart showing higher churn in month-to-month contracts compared to one-year or two-year plans.
   + Churn distribution: Pie chart illustrating the split between churned (26.54%) and retained (73.46%) customers.
   + Additional charts for model performance, customer segmentation, and churn rate trends.
+
 Data exploration - Interactive filters for segments like contract type, payment methods, or tenure.
 
 ## Dataset
