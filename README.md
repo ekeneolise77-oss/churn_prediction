@@ -19,11 +19,11 @@ Data exploration - Interactive filters for segments like contract type, payment 
 
 ## Dataset
 The project utilizes a sample telecommunications customer dataset (inspired by the Telco Customer Churn dataset), which includes features such as:
-    + Customer demographics (age, gender, etc.)
-    + Account information (tenure, contract type, payment method)
-    + Services subscribed (internet, phone, streaming, etc.)
-    + Monthly and total charges
-    + Churn status (yes/no)
+  + Customer demographics (age, gender, etc.)
+  + Account information (tenure, contract type, payment method)
+  + Services subscribed (internet, phone, streaming, etc.)
+  + Monthly and total charges
+  + Churn status (yes/no)
 
 The dataset contains approximately 7,043 customer records, with a churn rate of 26.54%. Data preprocessing includes handling missing values, encoding categorical variables, and feature scaling.
 
