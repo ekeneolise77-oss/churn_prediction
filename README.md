@@ -33,7 +33,7 @@ The dataset contains approximately 7,043 customer records, with a churn rate of 
 + Libraries
 + Data Processing - Pandas, NumPy
 + Machine learning - Scikit-learn, XGBoost.
-+ Visualization - Matplotlib, Seaborn, or dashboard tools like Streamlit/Dash/Tableau/Power BI.
++ Visualization - Dashboard tools like Streamlit/Dash/Tableau/Power BI.
 + Environment - Jupyter Notebook for development; optional deployment via Streamlit or Heroku.
 + Version Control - Git
 
@@ -43,6 +43,7 @@ The dataset contains approximately 7,043 customer records, with a churn rate of 
     + cd customer-churn-prediction
 2. Install dependencies
     + pip install -r requirements.txt
+
 Sample requirements.txt:
   + pandas
   + numpy
