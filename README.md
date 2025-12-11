@@ -50,7 +50,7 @@ Sample requirements.txt:
   + xgboost
   + matplotlib
   + streamlit  # For dashboard deployment
-3. Download the dataset (e.g., telco_customer_churn.csv <https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv>) and place it in the data/ directory.
+3. Download the dataset (e.g., [telco_customer_churn.csv](https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv) and place it in the data/ directory.
 
 ## Usage
 1. Train the model
